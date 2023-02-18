@@ -1,1 +1,1 @@
-# Discord-Chat-Bot-in-Python
+Consult Guide.txt provided
