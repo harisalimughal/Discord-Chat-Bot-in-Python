@@ -1,0 +1,8 @@
+1. Go to https://discord.com/developers/applications
+2. Create your Bot
+3. Get your TOKEN and URL(Invite Link)
+4.visit your invite Link.
+5. Add Bot to your Discord server and authorize.
+6.Now put your Token in the Code and Run
+7.Your Bot is online now.
+--------------------------------------Good Luck!------------------------------------
